@@ -1,5 +1,5 @@
 {
-    "lab_reference" : "lab",
+    "lab_reference" : "guide-developpeur",
     "packages" : [
         {
             "name":"autoformation",
